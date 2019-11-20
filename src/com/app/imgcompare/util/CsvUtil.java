@@ -2,7 +2,6 @@ package com.app.imgcompare.util;
 
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.Writer;
 import java.util.List;
 
 import com.app.imgcompare.ImageDataBean;
